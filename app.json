@@ -1,12 +1,12 @@
 {
-    "name": "Zᴇᴅᴢᴇ ✘",
+    "name": "Aʟᴏɴᴇ ✘",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/ff3d94744211c796cf5bb.jpg",
+    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "ZedzeX",
+    "AloneX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ZedzeX Music",
+        "value": "AloneX Music",
         "required": true
       },
       "OWNER_ID": {
