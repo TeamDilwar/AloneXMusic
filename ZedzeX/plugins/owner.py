@@ -49,7 +49,7 @@ async def help(client: Client, message: Message):
 
 
 @app.on_message(
-    filters.command("katil")
+    filters.command("Alone")
     & filters.group
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
@@ -74,7 +74,7 @@ async def help(client: Client, message: Message):
     )
 
 @app.on_message(
-    filters.command("katil")
+    filters.command("Alone")
     & filters.group
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
@@ -111,7 +111,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ALONE_WAS_BOT")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/AloneXBot/AloneXMusic")
                 ]
             ]
         ),
@@ -129,7 +129,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ALONE_WAS_BOT")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/AloneXBot/AloneXMusic")
                 ]
             ]
         ),
@@ -147,7 +147,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ALONE_WAS_BOT")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/AloneXBot/AloneXMusic")
                 ]
             ]
         ),
