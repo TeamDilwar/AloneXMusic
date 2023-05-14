@@ -31,7 +31,7 @@
 <a href="https://github.com/AloneXBot/AloneXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/AloneXBot/AloneXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AloneXBot/AloneXMusic/commits/team-katil"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/AloneXBot/AloneXMusic/commits/AloneXBot"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -52,7 +52,7 @@
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/katil_your_dad"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎『𝐀𝐋𝐎𝐍𝐄』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎『𝐀𝐋𝐎𝐍𝐄』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
