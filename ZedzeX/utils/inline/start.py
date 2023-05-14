@@ -54,7 +54,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 url=f"https://t.me/ALONE_WAS_BOT"
             ),
             InlineKeyboardButton(
-                text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://github.com/AloneXBot/AloneXMusic",
+                text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://te.legra.ph/file/5fa7b4d86dcd5720ef30c.mp4",
             )
         ],
      ]
